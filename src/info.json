@@ -1,0 +1,11 @@
+{
+  "name": "walle-bots",
+  "version": "0.0.1",
+  "title": "Wall-e Bots",
+  "description": "An early game mod that provides 'wall-e' like robots for small tasks.",
+  "author": "Cheeselemon",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1"
+  ]
+}
